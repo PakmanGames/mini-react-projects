@@ -13,6 +13,7 @@ h1 {
   font-size: 48px;
 }
 
+/* Style display to transition into the new colour */
 .colour-display {
   width: 300px;
   height: 300px;

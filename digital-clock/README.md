@@ -1,8 +1,9 @@
-# React + Vite
+# Digital Clock in React
+Simple webpage that displays the current time in the form of:  
+HOURS:MINUTES:SECONDS MERIDIEM
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This program utilizes the `useState` and `useEffect` hooks from React.  
+The time is stored as a state variable. This gets updated within the `useEffect` upon mount of the component which occurs every second due to an interval.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Preview:  
+<img src="./src/assets/digital-clock-preview.png" alt="Preview of Digital Clock">

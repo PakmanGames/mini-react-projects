@@ -12,6 +12,7 @@ h1 {
   font-size: 64px;
 }
 
+/* Style button and add transition to background-color */
 button {
   font-size: 30px;
   font-weight: bold;
@@ -22,6 +23,8 @@ button {
   cursor: pointer;
   transition: background-color 0.5s ease;
 }
+
+/* Different colours for different buttons and when they're hovered */
 
 .add-button {
   background-color: #008000;

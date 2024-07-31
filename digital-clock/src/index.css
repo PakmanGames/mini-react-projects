@@ -1,3 +1,4 @@
+/* Set background image to provide image and make it fit in the center of screen */
 body {
   background-image: url(./assets/zafkiel.png);
   background-position: center;
@@ -11,6 +12,7 @@ body {
   min-height: 100vh;
 }
 
+/* Add slight blur to background that contains the time for readability */
 .clock-container {
   backdrop-filter: blur(2px);
   padding: 10px;
