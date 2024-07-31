@@ -1,0 +1,26 @@
+body {
+  background-image: url(./assets/zafkiel.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  margin: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.clock-container {
+  backdrop-filter: blur(2px);
+  padding: 10px;
+}
+
+.clock {
+  color: black;
+  font-size: 96px;
+  font-weight: bold;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+  text-shadow: 3px 3px 5px #000000be;
+}
