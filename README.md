@@ -10,3 +10,4 @@ Previews of the different projects:
 <img src="./colour-picker/src/assets/color-picker-preview.png" alt="Preview of Colour Picker">
 <img src="./to-do-list/src/assets/to-do-list-preview.png" alt="Preview of To Do List">
 <img src="./digital-clock/src/assets/digital-clock-preview.png" alt="Preview of Digital Clock">
+<img src="./stopwatch/src/assets/stopwatch-preview.png" alt="Preview of Stopwatch">
